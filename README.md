@@ -14,8 +14,5 @@ const myinfo = {
 }
 ```
 
-### 📬 Contact Me  
-- Telegram: [t.me/YourUsername](https://t.me/YourUsername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/YourProfile)
-- Email: your@email.com
+
 
