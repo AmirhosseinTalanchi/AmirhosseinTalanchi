@@ -13,4 +13,6 @@ const myinfo = {
 
 }
 ```
+
+<h2> Social Media</h2>
 <a href="https://t.me/@Amirho3einTalanchi"><img src="https://github.com/AmirhosseinTalanchi/AmirhosseinTalanchi/blob/main/icons8-telegram-96.png?raw=true"></a>
