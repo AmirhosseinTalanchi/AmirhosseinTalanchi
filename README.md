@@ -28,7 +28,7 @@ const myinfo = {
 
 ## 📞 &nbsp; Connct Me
 
-  <a href="www.amirhosseintalanchi.84@gmail.com"><img width="70px" height="70px" src="https://github.com/AmirhosseinTalanchi/AmirhosseinTalanchi/blob/main/icons8-gmail-100.png?raw=true"/></a>
+  <a href="www.amirhosseintalanchi.84gmail.com"><img width="70px" height="70px" src="https://github.com/AmirhosseinTalanchi/AmirhosseinTalanchi/blob/main/icons8-gmail-100.png?raw=true"/></a>
   <a href="https://instagram.com/amirhosseintalanchi.84"><img width="70px" height="70px" src="https://github.com/AmirhosseinTalanchi/AmirhosseinTalanchi/blob/main/icons8-instagram-96.png?raw=true"/></a>
   <a href="https://t.me/Amirho3einTalanchi"><img width="70px" height="70px" src="https://github.com/AmirhosseinTalanchi/AmirhosseinTalanchi/blob/main/icons8-telegram-96.png?raw=true"/></a>
 
