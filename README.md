@@ -13,6 +13,3 @@ const myinfo = {
 
 }
 ```
-
-
-https://github.com/AmirhosseinTalanchi/AmirhosseinTalanchi/blob/main/icons8-instagram-64%20(2).png?raw=true
