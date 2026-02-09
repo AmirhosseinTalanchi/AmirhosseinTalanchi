@@ -5,7 +5,7 @@
 ## 👨‍💻 &nbsp; About Me
 
 ``` javascript
-const myinfo = {
+const myInfo = {
 
   name: "Amirhossein Talanchi",
   age: "20",
