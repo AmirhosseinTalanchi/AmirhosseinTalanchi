@@ -8,11 +8,11 @@
 const myInfo = {
 
   name: "Amirhossein Talanchi",
-  age: "20",
+  age: "22",
   city: "shahriyar",
   univercity: "Islamic Azad University, Karaj Branch",
-  skills: "html, css, tailwind, javascript, ...",
-  status: "learing react js",
+  skills: "html, css, tailwind, javascript, reactjs, nextjs ...",
+  status: "working",
 
 }
 ```
